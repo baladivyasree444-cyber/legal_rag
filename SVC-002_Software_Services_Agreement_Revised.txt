@@ -1,0 +1,38 @@
+SOFTWARE SERVICES AGREEMENT
+Document ID: SVC-002
+Version: 2.0
+Effective Date: April 15, 2026
+Jurisdiction: Illinois, USA
+
+PARTIES
+This Agreement is between Meridian Retail Group ("Customer") and DataPeak Technologies LLC ("Provider").
+
+1. SERVICES
+Provider will deliver cloud hosting, software development, monitoring, and support under statements of work.
+
+2. FEES AND PAYMENT
+Customer will pay USD 20,000 per month. Invoices are due within 45 days. Undisputed overdue amounts may accrue interest at 1% per month, subject to applicable law.
+
+3. SERVICE LEVEL
+Provider will target 99.9% monthly availability for production services, excluding scheduled maintenance, emergency maintenance, and force majeure events.
+
+4. DATA PROTECTION
+Provider will process Customer Data only for the Services and will maintain administrative, technical, and physical safeguards appropriate to the risk.
+
+5. SECURITY INCIDENT
+Provider must notify Customer within 24 hours after confirming a Security Incident involving Customer Data and provide updates reasonably requested by Customer.
+
+6. INTELLECTUAL PROPERTY
+Customer owns Customer Data. Provider retains all rights in its platform, tools, templates, and pre-existing technology. Custom deliverables are assigned to Customer after full payment, but Provider receives a perpetual license to use generalized know-how that does not identify Customer or disclose Customer Confidential Information.
+
+7. INDEMNIFICATION
+Provider will defend and indemnify Customer against third-party intellectual property infringement claims, subject to stated exclusions and mitigation requirements.
+
+8. LIMITATION OF LIABILITY
+Except for confidentiality breaches, data protection violations, indemnification obligations, and fraud or willful misconduct, aggregate liability is capped at fees paid or payable during the preceding eighteen months.
+
+9. TERMINATION
+Either party may terminate for material breach after a 15-day cure period. Either party may terminate for convenience with 60 days' written notice.
+
+10. GOVERNING LAW
+Illinois law governs.

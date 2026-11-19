@@ -1,0 +1,35 @@
+VENDOR SUPPLY AGREEMENT
+Document ID: VND-001
+Version: 1.0
+Effective Date: May 1, 2026
+Jurisdiction: New Jersey, USA
+
+PARTIES
+This Agreement is between GreenField Manufacturing Corp. ("Buyer") and Apex Components Ltd. ("Vendor").
+
+1. PRODUCTS
+Vendor will supply electronic components according to purchase orders accepted under this Agreement.
+
+2. PRICING
+Prices are stated in the applicable purchase order and remain fixed for 12 months unless Buyer agrees otherwise in writing.
+
+3. DELIVERY
+Vendor will use commercially reasonable efforts to deliver by the dates specified in purchase orders. Vendor must promptly notify Buyer of anticipated delays.
+
+4. INSPECTION AND WARRANTY
+Buyer may inspect products within 30 days after delivery. Vendor warrants that products will conform to specifications and be free from material defects for 12 months after delivery.
+
+5. INDEMNIFICATION
+Vendor will indemnify Buyer against third-party claims arising from bodily injury, property damage, or Vendor's infringement of third-party intellectual property rights caused by supplied products.
+
+6. INSURANCE
+Vendor will maintain commercial general liability insurance of at least USD 2 million per occurrence.
+
+7. LIMITATION OF LIABILITY
+Neither party is liable for indirect, incidental, special, or consequential damages. Vendor's aggregate direct liability is limited to the amount paid for affected products during the preceding twelve months, except for fraud, willful misconduct, confidentiality breaches, and indemnification obligations.
+
+8. TERMINATION
+Buyer may terminate for material breach if Vendor fails to cure within 30 days. Buyer may also terminate for convenience with 60 days' notice.
+
+9. GOVERNING LAW
+New Jersey law governs.
