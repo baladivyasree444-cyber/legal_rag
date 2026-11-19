@@ -11,7 +11,16 @@ SIMILARITY_THRESHOLD = 0.85
 
 load_dotenv()
 
+# First, check local environment variables
 api_key = os.getenv("GOOGLE_API_KEY")
+
+# If not found, check Streamlit Cloud Secrets
+if not api_key:
+    try:
+        import streamlit as st
+        api_key = st.secrets.get("GOOGLE_API_KEY")
+    except Exception:
+        api_key = None
 
 if not api_key:
     raise ValueError("GOOGLE_API_KEY is not configured")
