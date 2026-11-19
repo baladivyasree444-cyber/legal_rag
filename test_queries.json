@@ -1,0 +1,43 @@
+{
+  "basic_retrieval": [
+    "What is the notice period in EMP-001?",
+    "What is the notice period in EMP-002?",
+    "What is the monthly fee in SVC-001?",
+    "What is the monthly fee in SVC-002?",
+    "Which jurisdiction governs NDA-002?",
+    "What is the warranty period in VND-002?"
+  ],
+  "exact_clause": [
+    "Find the exact clause concerning security incidents in SVC-002.",
+    "Find the exact intellectual property clause in SVC-001.",
+    "Find the exact termination-for-convenience clause in VND-002.",
+    "Find the confidentiality survival period in NDA-001."
+  ],
+  "metadata_filtering": [
+    "Find all agreements governed by New Jersey law.",
+    "Find all documents with Meridian Retail Group as a party.",
+    "Find all version 2.0 agreements.",
+    "Find all documents containing an indemnification clause."
+  ],
+  "comparison": [
+    "Compare EMP-001 and EMP-002 termination provisions.",
+    "Compare SVC-001 and SVC-002 payment terms.",
+    "Compare SVC-001 and SVC-002 security incident notification deadlines.",
+    "Compare VND-001 and VND-002 warranty periods.",
+    "Compare VND-001 and VND-002 insurance requirements.",
+    "Compare NDA-001 and NDA-002 confidentiality survival periods."
+  ],
+  "cross_document": [
+    "Which contract has the longest termination notice period?",
+    "Which agreement has the highest insurance requirement?",
+    "Which software services agreement has the better availability target?",
+    "Which document has a 15-day cure period?",
+    "Which contracts have liability caps based on 12 months of fees or purchases?",
+    "Which agreements contain a non-compete or non-solicitation restriction?"
+  ],
+  "citation_tests": [
+    "Answer the question and cite the document ID and section number: What is the cure period in SVC-002?",
+    "Answer with the supporting source: How long does the confidentiality obligation survive in NDA-002?",
+    "Provide the source clause for the VND-002 insurance requirement."
+  ]
+}

@@ -1,0 +1,35 @@
+EMPLOYMENT AGREEMENT
+Document ID: EMP-001
+Version: 1.0
+Effective Date: January 1, 2026
+Jurisdiction: California, USA
+
+PARTIES
+This Employment Agreement is between Alpha Technologies Inc. ("Company") and Jordan Lee ("Employee").
+
+1. POSITION AND DUTIES
+The Company employs Employee as Senior Software Engineer. Employee will perform duties reasonably assigned by the Company and comply with applicable Company policies.
+
+2. COMPENSATION
+Employee will receive an annual base salary of USD 120,000, paid in accordance with the Company's normal payroll schedule. Employee may be eligible for an annual performance bonus of up to 10% of base salary.
+
+3. CONFIDENTIALITY
+Employee must protect non-public business, technical, financial, customer, and product information. Confidentiality obligations continue for three years after termination, except that trade secrets remain protected for as long as they qualify as trade secrets under applicable law.
+
+4. INTELLECTUAL PROPERTY
+All work product created by Employee within the scope of employment or using Company resources belongs to the Company, to the extent permitted by law. Employee will reasonably assist with documentation needed to establish the Company's rights.
+
+5. NON-SOLICITATION
+For twelve months after termination, Employee will not knowingly solicit Company employees to leave their employment, to the extent permitted by applicable law.
+
+6. TERMINATION
+Either party may terminate employment without cause by providing 30 days' written notice. The Company may terminate immediately for material misconduct, fraud, or a material breach of this Agreement, subject to applicable law.
+
+7. RETURN OF PROPERTY
+Upon termination, Employee must promptly return Company equipment, records, credentials, and confidential information.
+
+8. GOVERNING LAW
+This Agreement is governed by the laws of the State of California, without regard to conflict-of-law principles.
+
+9. ENTIRE AGREEMENT
+This Agreement supersedes prior written or oral agreements concerning the subject matter and may be amended only in a written document signed by both parties.

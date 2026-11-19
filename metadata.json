@@ -1,0 +1,74 @@
+[
+  {
+    "document_id": "EMP-001",
+    "type": "Employment Agreement",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "jurisdiction": "California",
+    "party_a": "Alpha Technologies Inc.",
+    "party_b": "Jordan Lee"
+  },
+  {
+    "document_id": "EMP-002",
+    "type": "Employment Agreement",
+    "version": "2.0",
+    "effective_date": "2026-02-15",
+    "jurisdiction": "Texas",
+    "party_a": "Beta Systems LLC",
+    "party_b": "Morgan Patel"
+  },
+  {
+    "document_id": "NDA-001",
+    "type": "Mutual NDA",
+    "version": "1.0",
+    "effective_date": "2026-03-01",
+    "jurisdiction": "New York",
+    "party_a": "Northstar Labs Inc.",
+    "party_b": "Orion Data LLC"
+  },
+  {
+    "document_id": "NDA-002",
+    "type": "One-Way NDA",
+    "version": "1.1",
+    "effective_date": "2026-03-10",
+    "jurisdiction": "Delaware",
+    "party_a": "Summit Health Analytics Inc.",
+    "party_b": "Clearview Consulting LLC"
+  },
+  {
+    "document_id": "SVC-001",
+    "type": "Software Services Agreement",
+    "version": "1.0",
+    "effective_date": "2026-04-01",
+    "jurisdiction": "New York",
+    "party_a": "Meridian Retail Group",
+    "party_b": "CloudForge Solutions Inc."
+  },
+  {
+    "document_id": "SVC-002",
+    "type": "Software Services Agreement",
+    "version": "2.0",
+    "effective_date": "2026-04-15",
+    "jurisdiction": "Illinois",
+    "party_a": "Meridian Retail Group",
+    "party_b": "DataPeak Technologies LLC"
+  },
+  {
+    "document_id": "VND-001",
+    "type": "Vendor Supply Agreement",
+    "version": "1.0",
+    "effective_date": "2026-05-01",
+    "jurisdiction": "New Jersey",
+    "party_a": "GreenField Manufacturing Corp.",
+    "party_b": "Apex Components Ltd."
+  },
+  {
+    "document_id": "VND-002",
+    "type": "Vendor Supply Agreement",
+    "version": "2.0",
+    "effective_date": "2026-05-20",
+    "jurisdiction": "New Jersey",
+    "party_a": "GreenField Manufacturing Corp.",
+    "party_b": "Nova Components Inc."
+  }
+]

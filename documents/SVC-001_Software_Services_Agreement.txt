@@ -1,0 +1,43 @@
+SOFTWARE SERVICES AGREEMENT
+context = """
+Document ID: EMP-001
+Section 6 - TERMINATION
+
+Either party may terminate employment without cause by providing
+30 days' written notice.
+"""
+Effective Date: April 1, 2026
+Jurisdiction: New York, USA
+
+PARTIES
+This Agreement is between Meridian Retail Group ("Customer") and CloudForge Solutions Inc. ("Provider").
+
+1. SERVICES
+Provider will provide application development, maintenance, monitoring, and technical support described in applicable statements of work.
+
+2. FEES AND PAYMENT
+Customer will pay USD 18,000 per month. Invoices are due within 30 days of receipt. Disputed amounts must be identified within 15 days.
+
+3. SERVICE LEVEL
+Provider will target 99.5% monthly availability for production services, excluding scheduled maintenance and force majeure events.
+
+4. DATA PROTECTION
+Provider will implement reasonable safeguards for Customer Data and will process such data only to provide the Services and as instructed by Customer.
+
+5. SECURITY INCIDENT
+Provider will notify Customer within 48 hours after confirming a Security Incident affecting Customer Data and will reasonably cooperate with investigation and remediation.
+
+6. INTELLECTUAL PROPERTY
+Customer owns Customer Data. Provider retains ownership of its pre-existing tools and reusable technology. Custom deliverables specifically created for Customer under a statement of work are assigned to Customer upon full payment, excluding Provider background technology.
+
+7. INDEMNIFICATION
+Provider will defend and indemnify Customer against third-party claims alleging that the Services infringe a U.S. patent, copyright, or trademark, subject to the exclusions in this Agreement.
+
+8. LIMITATION OF LIABILITY
+Except for confidentiality breaches, indemnification obligations, and fraud or willful misconduct, each party's aggregate liability is limited to fees paid or payable during the preceding twelve months.
+
+9. TERMINATION
+Either party may terminate for material breach if the breach is not cured within 30 days after written notice. Either party may terminate for convenience with 90 days' written notice.
+
+10. GOVERNING LAW
+New York law governs.

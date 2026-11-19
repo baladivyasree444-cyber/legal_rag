@@ -1,0 +1,35 @@
+VENDOR SUPPLY AGREEMENT
+Document ID: VND-002
+Version: 2.0
+Effective Date: May 20, 2026
+Jurisdiction: New Jersey, USA
+
+PARTIES
+This Agreement is between GreenField Manufacturing Corp. ("Buyer") and Nova Components Inc. ("Vendor").
+
+1. PRODUCTS
+Vendor will supply electronic and mechanical components in accordance with accepted purchase orders and product specifications.
+
+2. PRICING
+Prices remain fixed for six months. After that period, Vendor may request a price adjustment by providing 60 days' advance written notice and supporting cost information. No adjustment is effective without Buyer's written approval.
+
+3. DELIVERY
+Time is of the essence. Vendor must meet the delivery dates in accepted purchase orders and notify Buyer within one business day of any expected delay.
+
+4. INSPECTION AND WARRANTY
+Buyer may inspect products within 45 days after delivery. Vendor warrants products for 18 months after delivery and will repair or replace nonconforming products at its expense.
+
+5. INDEMNIFICATION
+Vendor will indemnify and defend Buyer against third-party claims involving bodily injury, property damage, intellectual property infringement, or violation of applicable product safety requirements arising from Vendor's products.
+
+6. INSURANCE
+Vendor will maintain commercial general liability insurance of at least USD 5 million per occurrence and provide certificates of insurance upon request.
+
+7. LIMITATION OF LIABILITY
+Neither party is liable for indirect, incidental, special, or consequential damages, except where prohibited by law. Vendor's aggregate direct liability is limited to amounts paid for affected products during the preceding twenty-four months, except for fraud, willful misconduct, confidentiality breaches, indemnification obligations, and product safety violations.
+
+8. TERMINATION
+Buyer may terminate for material breach if Vendor fails to cure within 15 days. Buyer may terminate for convenience with 30 days' notice.
+
+9. GOVERNING LAW
+New Jersey law governs.

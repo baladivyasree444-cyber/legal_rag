@@ -1,0 +1,35 @@
+EMPLOYMENT AGREEMENT
+Document ID: EMP-002
+Version: 2.0
+Effective Date: February 15, 2026
+Jurisdiction: Texas, USA
+
+PARTIES
+This Employment Agreement is between Beta Systems LLC ("Company") and Morgan Patel ("Employee").
+
+1. POSITION AND DUTIES
+Employee is employed as Product Engineering Manager and will perform assigned managerial and technical responsibilities.
+
+2. COMPENSATION
+Employee will receive an annual base salary of USD 135,000. Employee may receive a discretionary annual bonus determined by the Company.
+
+3. CONFIDENTIALITY
+Employee shall not disclose confidential business, technical, financial, customer, or strategic information. These obligations continue for five years after termination. Trade secrets remain protected for as long as required by applicable law.
+
+4. INTELLECTUAL PROPERTY
+All inventions, software, documentation, designs, and other work product created in connection with Employee's duties belong to the Company, subject to applicable law.
+
+5. NON-COMPETE
+To the extent enforceable under applicable law, for six months after termination Employee shall not provide substantially similar services to a direct competitor within Texas.
+
+6. TERMINATION
+Either party may terminate without cause with 60 days' written notice. The Company may terminate immediately for gross misconduct, fraud, or material breach.
+
+7. SEVERANCE
+If the Company terminates Employee without cause, Employee will receive four weeks of base salary, subject to execution of any legally required separation documents.
+
+8. GOVERNING LAW
+This Agreement is governed by Texas law.
+
+9. ENTIRE AGREEMENT
+This Agreement represents the complete agreement regarding employment and supersedes prior agreements on the same subject.

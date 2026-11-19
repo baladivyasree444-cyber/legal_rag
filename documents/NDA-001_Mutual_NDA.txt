@@ -1,0 +1,35 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+Document ID: NDA-001
+Version: 1.0
+Effective Date: March 1, 2026
+Jurisdiction: New York, USA
+
+PARTIES
+This Mutual NDA is between Northstar Labs Inc. ("Northstar") and Orion Data LLC ("Orion").
+
+1. PURPOSE
+The parties may exchange confidential information while evaluating a potential strategic partnership.
+
+2. CONFIDENTIAL INFORMATION
+Confidential Information includes non-public technical, commercial, financial, customer, product, and business information disclosed in written, electronic, or oral form.
+
+3. EXCLUSIONS
+Confidential Information does not include information that is publicly available without breach, was already lawfully known, is independently developed without use of Confidential Information, or is lawfully received from a third party without confidentiality restrictions.
+
+4. PERMITTED DISCLOSURE
+A receiving party may disclose Confidential Information to employees, professional advisers, and contractors who need the information and are bound by confidentiality obligations. Disclosure required by law is permitted after reasonable notice when legally allowed.
+
+5. SECURITY
+Each party will use reasonable administrative, technical, and physical safeguards to protect Confidential Information.
+
+6. TERM
+This Agreement remains in effect for two years. Confidentiality obligations survive for three years after disclosure, except for trade secrets, which remain protected while they qualify as trade secrets.
+
+7. RETURN OR DESTRUCTION
+Upon written request, the receiving party will return or destroy Confidential Information, subject to routine backup retention and legal recordkeeping requirements.
+
+8. REMEDIES
+A party may seek injunctive relief for unauthorized disclosure in addition to other remedies available under law.
+
+9. GOVERNING LAW
+New York law governs this Agreement.

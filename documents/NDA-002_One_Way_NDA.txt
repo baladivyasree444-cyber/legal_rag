@@ -1,0 +1,35 @@
+ONE-WAY NON-DISCLOSURE AGREEMENT
+Document ID: NDA-002
+Version: 1.1
+Effective Date: March 10, 2026
+Jurisdiction: Delaware, USA
+
+PARTIES
+This NDA is between Summit Health Analytics Inc. ("Discloser") and Clearview Consulting LLC ("Recipient").
+
+1. PURPOSE
+Discloser may provide information to Recipient so Recipient can evaluate and perform consulting services.
+
+2. CONFIDENTIAL INFORMATION
+Confidential Information includes source code, analytics models, pricing, customer information, business plans, security information, and other information identified as confidential or reasonably understood to be confidential.
+
+3. EXCLUSIONS
+Information is not Confidential Information if Recipient can demonstrate that it was publicly known without breach, already lawfully possessed, independently developed without reference to the information, or lawfully obtained from another source.
+
+4. PERMITTED USE
+Recipient may use Confidential Information only to perform the services for Discloser.
+
+5. DISCLOSURE TO REPRESENTATIVES
+Recipient may disclose information only to representatives who have a need to know and are bound by confidentiality obligations at least as protective as this Agreement.
+
+6. SECURITY INCIDENTS
+Recipient must notify Discloser without unreasonable delay and, where practicable, within 48 hours after discovering unauthorized access to Confidential Information.
+
+7. TERM AND SURVIVAL
+This Agreement lasts for three years. Confidentiality and permitted-use obligations survive for five years after termination. Trade secrets remain protected while they qualify as trade secrets.
+
+8. RETURN OR DESTRUCTION
+Within 15 days after request, Recipient must return or securely destroy Confidential Information and certify completion upon request.
+
+9. GOVERNING LAW
+Delaware law governs this Agreement.
